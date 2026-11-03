@@ -1,4 +1,12 @@
 @font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('@fontsource/figtree/files/figtree-latin-600-normal.woff2')
+    format('woff2');
+}
+@font-face {
   font-family: Syne;
   font-style: normal;
   font-weight: 700;

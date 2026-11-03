@@ -1,5 +1,11 @@
 <script setup lang="ts">
 import { useHead } from '#imports';
+import { products } from '../../data/catalog';
+const featured = products.filter((product) =>
+  ['satin-stroke', 'fourfold-eyes', 'soft-signal', 'light-index'].includes(
+    product.id,
+  ),
+);
 useHead({ title: 'Veyli Colour — Every shade. Every side.' });
 </script>
 <template>
@@ -81,6 +87,13 @@ useHead({ title: 'Veyli Colour — Every shade. Every side.' });
       ><NuxtLink to="/shop?category=Complexion"
         >Complexion <BeautyIcon name="arrow"
       /></NuxtLink>
+    </div>
+    <div class="colour-product-grid home-products">
+      <ColourProductCard
+        v-for="product in featured"
+        :key="product.id"
+        :product="product"
+      />
     </div>
   </section>
 </template>

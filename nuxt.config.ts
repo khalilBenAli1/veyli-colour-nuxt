@@ -3,8 +3,17 @@ export default defineNuxtConfig({
   compatibilityDate: '2026-11-03',
   devtools: { enabled: false },
   modules: ['@pinia/nuxt'],
-  components: [{ path: '~/components', pathPrefix: false }],
-  css: ['~/assets/css/main.css'],
+  // Every route is explicitly generated and data is local; no runtime build-manifest lookup is required.
+  experimental: { appManifest: false },
+  components: [
+    { path: '~/components', pathPrefix: false },
+    { path: '~/features', pathPrefix: false },
+  ],
+  css: [
+    '~/assets/css/main.css',
+    '~/assets/css/shopping.css',
+    '~/assets/css/checkout.css',
+  ],
   typescript: { strict: true },
   app: {
     baseURL: '/veyli-colour-nuxt/',
