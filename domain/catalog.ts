@@ -25,7 +25,7 @@ export function parseFilters(query: Record<string, unknown>): CatalogFilters {
   return {
     category: categories.some((value) => value === category) ? category : '',
     finish: finishes.some((value) => value === finish) ? finish : '',
-    family: families.includes(family) ? family : '',
+    family: families.some((value) => value === family) ? family : '',
     search: text('q').slice(0, 100),
     maxPrice:
       Number.isSafeInteger(cap) &&

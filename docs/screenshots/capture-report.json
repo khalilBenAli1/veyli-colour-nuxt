@@ -4,6 +4,7 @@
     "width": 1440,
     "height": 1000,
     "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/",
     "errors": [],
     "hydrationWarnings": [],
     "overflow": false
@@ -13,6 +14,107 @@
     "width": 390,
     "height": 844,
     "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "shop-desktop",
+    "width": 1440,
+    "height": 1000,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/shop/",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "shop-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/shop/",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "product-desktop",
+    "width": 1440,
+    "height": 1000,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/products/satin-stroke/?shade=rose",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "product-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/products/satin-stroke/?shade=rose",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "look-desktop",
+    "width": 1440,
+    "height": 1000,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/looks/?story=rose",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "look-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/looks/?story=rose",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "bag-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/products/satin-stroke/?shade=rose",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "wishlist-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/wishlist",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "checkout-desktop",
+    "width": 1440,
+    "height": 1000,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/checkout",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "checkout-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "url": "http://127.0.0.1:4204/veyli-colour-nuxt/checkout",
     "errors": [],
     "hydrationWarnings": [],
     "overflow": false
