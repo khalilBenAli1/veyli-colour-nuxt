@@ -1,0 +1,10 @@
+node_modules
+.nuxt
+.output
+dist
+.omx
+package-lock.json
+playwright-report
+test-results
+docs/IMAGE_PROVENANCE.md
+docs/image-prompts.json

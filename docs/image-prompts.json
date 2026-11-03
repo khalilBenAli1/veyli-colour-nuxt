@@ -1,0 +1,598 @@
+{
+  "brand": "Veyli Colour",
+  "created": "2026-11-03",
+  "generator": "Built-in image_gen tool; no API key or CLI generation",
+  "processing": "Sharp 0.35.5 from bundled runtime: orientation, opaque flatten, width resize preserving aspect ratio, WebP quality82/effort6. No synthetic 4K claim.",
+  "assets": [
+    {
+      "key": "satin-stroke-pack",
+      "prompt": "Use case: product-mockup. Asset: original premium makeup catalog photograph for fictional Veyli Colour, square composition, requested native 1536 by 1536. Photograph ONE CLOSED lipstick package: a short sculptural satin-silver cylinder with subtly rounded shoulders and one restrained deep-burgundy ring around the join, a fitted opaque silver cap fully closed. Approximate real object 7cm tall, 2.4cm diameter, simple original geometry, not the signature packaging of any real cosmetics brand. Absolutely no lipstick bullet, no liquid, no pigment swatch: this closed opaque package must truthfully represent every shade. Whole vessel visible at a slight three-quarter angle, centered with generous warm-white negative space and a crisp plum-tinted studio shadow. Sophisticated expressive beauty editorial, warm white background, polished silver highlights, a faint blush-pink bounce. Real material texture, high-end macro lens detail, clean studio photograph. No text, lettering, logo, watermark, hands, stones, linen, or extra products.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-277c8d2d-1573-4cee-9ea1-9dd24cde8925.png",
+      "rawSha256": "6dc2c1dc7634a9af64ab25f9b3c48b3f59cce070fdd6c74a2e22626b2f0d4359",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/satin-stroke-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 19802,
+          "sha256": "8448e50259ea9346ac4f4359794994d51c8bf582f8f5acdeb449071cdba420d5",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/satin-stroke-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 6666,
+          "sha256": "b1d1fef4bfd713e7513d7c61c9368fed444749ac7971cce09e2f93a68807c1d0",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "campaign-deep-skin",
+      "prompt": "Use case: photorealistic-natural. Asset: original premium beauty-editorial campaign portrait for fictional Veyli Colour. Portrait 4:5 composition, requested native 1536 by 1920. A completely fictional adult Black woman model about 30 years old, rich deep dark brown skin with authentic natural texture, sculptural short natural hair, calm confident direct gaze. Creative professional makeup: sophisticated satin berry lips, a precise copper and plum sweep on the eyes, subtle warm-gold highlight. Close beauty portrait showing complete eyes and lips with comfortable breathing room, face turned a little toward camera, neck and fully clothed upper shoulders in a plain burgundy crewneck. Warm-white studio with a soft pale-pink light spill, deliberate deep-burgundy background edge; expressive modern makeup editorial, realistic camera detail, not plastic retouching. Original invented person, no resemblance to any celebrity. No text, logos, watermarks, visible product packages, jewelry brands, UI or typography. Editorial artistic makeup illustration only, no product result guarantee, camera try-on or skin-tone prediction.",
+      "mode": "built-in image_gen",
+      "kind": "campaign",
+      "inspected": true,
+      "rawMaster": "exec-10809be6-16a1-41a9-a159-c6afbe57c347.png",
+      "rawSha256": "4d040b9c15e2b516f94f443a430d344e23e1f75b1a9d8599af0980f0f2230b36",
+      "native": {
+        "width": 1122,
+        "height": 1402,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/campaign-deep-skin.webp",
+          "width": 1200,
+          "height": 1499,
+          "bytes": 115320,
+          "sha256": "d0927a0c6479d04f8e20fb77ede02abf9d405a321dd2479b30aa75717f07402c",
+          "opaque": true,
+          "upscaled": true
+        },
+        {
+          "file": "public/images/campaign-deep-skin-640.webp",
+          "width": 640,
+          "height": 800,
+          "bytes": 35826,
+          "sha256": "582865e84d3024172de53c149035b738b98b7e5bfa2464cec55cd754923ef649",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "mirror-glaze-pack",
+      "prompt": "Primary subject: a rounded pearl-white opaque lip-gloss vessel, elegant small elongated oval bottle about9cm tall, completely opaque pearlescent body and a fitted polished chrome wand cap fully CLOSED, the cap occupies the top quarter with a subtle curved shoulder. No clear window and no visible liquid. Standing upright at a three-quarter angle; distinct rounded silhouette from a lipstick cylinder. Use case: product-mockup. Original fictional Veyli Colour makeup catalog photo, square composition, requested native1536×1536. One unique CLOSED opaque cosmetic package, whole object visible, no shade-specific product visible and no pigment swatches, so it can honestly represent every fixture shade. Premium beauty-editorial studio photography on warm-white paper with a crisp plum-tinted shadow and faint pink bounce. Silver/deep-burgundy/pearl palette, realistic finish and material details, generous breathing room. Absolutely no text, lettering, logos, labels, watermarks, hands, stones, linen, extra products or real-brand signature designs.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-b4035e3c-347b-4631-957c-1848ddf93f91.png",
+      "rawSha256": "cf4bc42f408d6b7edcc151b6740663fa6e7d1467d9163dea41c45b4065f8e854",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/mirror-glaze-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 18062,
+          "sha256": "e3e4f19c6d4092e7dde4cf87f87010e137af6aabe5615fca2fb56e84ea382a65",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/mirror-glaze-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 6350,
+          "sha256": "62f12f9c3a6e82329cbf827b745028fad7cc707819670ca60db156fcb52e204e",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "line-theory-pack",
+      "prompt": "Primary subject: one slender CLOSED silver lip pencil, about14cm long, straight slim cylindrical satin-silver shaft with a restrained deep-burgundy band near its fitted opaque cap. Cap completely covers any pencil tip; no visible pigment or colored end. A diagonal almost-horizontal composition across the square with the entire pencil visible, crisp beauty-light shadow. This is a slim pencil, not a thick mascara vessel. Use case: product-mockup. Original fictional Veyli Colour makeup catalog photo, square composition, requested native1536×1536. One unique CLOSED opaque cosmetic package, whole object visible, no shade-specific product visible and no pigment swatches, so it can honestly represent every fixture shade. Premium beauty-editorial studio photography on warm-white paper with a crisp plum-tinted shadow and faint pink bounce. Silver/deep-burgundy/pearl palette, realistic finish and material details, generous breathing room. Absolutely no text, lettering, logos, labels, watermarks, hands, stones, linen, extra products or real-brand signature designs.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-64f4f263-6b34-4555-a110-440160694a4e.png",
+      "rawSha256": "0327b9dedcca2851a415768dff2b43963730cc3911679e76ae83c7f1d59eb405",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/line-theory-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 19322,
+          "sha256": "c31a33103f0c9b4d92d46bc8936922d08a071563996a01ff2672ece960ee5bbc",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/line-theory-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 6508,
+          "sha256": "7918e0a7166a6b29a1e429cd0cdd2f616085e009706e0a8c728fef5b29936264",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "velvet-stain-pack",
+      "prompt": "Primary subject: a slim deep-burgundy rectangular lip-tint case about10cm tall and2cm wide, opaque glossy lacquered burgundy body with a fitted brushed-silver rectangular cap occupying the top third, softly chamfered edges. Package fully CLOSED, no visible applicator or liquid, no window. Upright slight three-quarter view emphasizes its original rectangular geometry, clearly distinct from a pencil and round lip-gloss bottle. Use case: product-mockup. Original fictional Veyli Colour makeup catalog photo, square composition, requested native1536×1536. One unique CLOSED opaque cosmetic package, whole object visible, no shade-specific product visible and no pigment swatches, so it can honestly represent every fixture shade. Premium beauty-editorial studio photography on warm-white paper with a crisp plum-tinted shadow and faint pink bounce. Silver/deep-burgundy/pearl palette, realistic finish and material details, generous breathing room. Absolutely no text, lettering, logos, labels, watermarks, hands, stones, linen, extra products or real-brand signature designs.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-574f26fb-c722-4b59-8ab5-370058e3d323.png",
+      "rawSha256": "47ba4ee0210a6a39821523c151504f8dd50382db8db0318c39f8b445fff44efb",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/velvet-stain-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 16440,
+          "sha256": "2a6e395711c71d3c71e4fc8acb591476bc07d825b9f98f5c245847178b2a2b00",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/velvet-stain-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 5772,
+          "sha256": "4510c3305f929ddb3a91a2db9de91d5d119e01a4065f25b696bddd0a5b3a86ee",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "campaign-freckled-skin",
+      "prompt": "Use case: photorealistic-natural. Original beauty-editorial campaign portrait for fictional Veyli Colour. Portrait4:5 composition, requested native1536×1920. A completely fictional adult androgynous model about28years old, light freckled skin with authentic natural texture and freckles across the nose, cropped dark auburn hair, poised expressive gaze slightly away from camera. Bold graphic plum eyeliner in an elegant geometric sweep, subtle luminous lids and a natural muted rose lip. Contemporary creative makeup editorial, close crop includes complete eyes and lips plus a fully clothed burgundy high-neck top at shoulders. Warm-white studio interrupted by a deliberate saturated burgundy plane and a soft coral-pink reflection, realistic lens detail, sculptural but humane lighting. No resemblance to a real celebrity, no logos, text, watermark, jewelry brands or visible cosmetic packages. No skin-tone prediction, camera try-on or exact product-result claim; this is an illustrative editorial portrait.",
+      "mode": "built-in image_gen",
+      "kind": "campaign",
+      "inspected": true,
+      "rawMaster": "exec-66817740-b10f-4c13-99cc-df0db5d6fab6.png",
+      "rawSha256": "56f18882e8c3a448af1c541ec44fd65e20400015749100513adb8b9b67a75f47",
+      "native": {
+        "width": 1122,
+        "height": 1402,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/campaign-freckled-skin.webp",
+          "width": 1200,
+          "height": 1499,
+          "bytes": 139296,
+          "sha256": "dfcef18444c91c4bb172b239ca1407911a39d79fe422581fd9cec6c56c39891c",
+          "opaque": true,
+          "upscaled": true
+        },
+        {
+          "file": "public/images/campaign-freckled-skin-640.webp",
+          "width": 640,
+          "height": 800,
+          "bytes": 44790,
+          "sha256": "699fe0222d260f88e133812a93a91b4c2e74c4be7f30edc4e216c9f948bd6bfc",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "fourfold-eyes-pack",
+      "prompt": "Primary subject: an architectural flat square satin-silver eye-shadow compact, fully CLOSED, about8cm square and1.3cm thick. Exactly FOUR subtle shallow embossed circular forms arranged in a2×2 grid on its silver lid, understated sculptural relief rather than visible makeup pans. Rounded geometric corners and a discreet deep-burgundy seam around the closed lower edge. Low three-quarter camera angle makes the square lid and thin compact depth clear. Use case: product-mockup. Original fictional Veyli Colour premium makeup photograph, square composition, requested native1536×1536. Photograph ONE unique CLOSED opaque cosmetic vessel, entire product visible, generous warm-white paper background, crisp plum-tinted studio shadow, subtle pink reflected light. Precise realistic silver/deep-burgundy/pearl material textures and modern expressive beauty-editorial lighting, clean catalog clarity. Closed package must show no shade-specific product, no visible fluid, no pigment swatch. Absolutely no text, lettering, logos, labels, watermark, hands, stones, linen, extra products or copied real-brand signature design.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-3790f833-1ed5-4eb6-9f81-8fdf1f2f6405.png",
+      "rawSha256": "152533ec7d3af0ba8fda390e9be72f36dc87be3350ab05019281e82525b43623",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/fourfold-eyes-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 50806,
+          "sha256": "2be23192662e8e73d424029eab8deffdb35a82cee80b4b142d1e40d6e4f9636b",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/fourfold-eyes-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 11662,
+          "sha256": "a43a9d2f514fe1de63032bbd523b447c8334c5d41a7be29b4ab24b5e8f0f71c6",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "fine-gesture-pack",
+      "prompt": "Primary subject: a very fine tapered deep-burgundy eye-liner pen about12cm long, slim elongated conical body narrowing toward its rear, fitted with a small satin-silver cap that completely conceals the felt tip. Fully CLOSED, no visible ink or applicator. Diagonal composition with complete silhouette visible. Distinct from a straight silver lip pencil: this pen is burgundy and noticeably tapered with a shorter silver cap. Use case: product-mockup. Original fictional Veyli Colour premium makeup photograph, square composition, requested native1536×1536. Photograph ONE unique CLOSED opaque cosmetic vessel, entire product visible, generous warm-white paper background, crisp plum-tinted studio shadow, subtle pink reflected light. Precise realistic silver/deep-burgundy/pearl material textures and modern expressive beauty-editorial lighting, clean catalog clarity. Closed package must show no shade-specific product, no visible fluid, no pigment swatch. Absolutely no text, lettering, logos, labels, watermark, hands, stones, linen, extra products or copied real-brand signature design.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-f1c7aee5-c41c-4737-a67d-df5dc7ab8ed3.png",
+      "rawSha256": "e2235ab68c051190da576ab3cdb123206931828069a9dee3bcbdb71dbf3cad9a",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/fine-gesture-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 18362,
+          "sha256": "d57a64bd6dbbd0789fc89e8eda88d33e1ed8c4a2b13f35809921cbd6fb5c78a9",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/fine-gesture-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 7292,
+          "sha256": "b130a36b7f2efeb4c0fe35b259a1e1e7ed30242b98c25153cf85c64d4e7dc830",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "lash-form-pack",
+      "prompt": "Primary subject: a thick sculptural dark-burgundy mascara cylinder about10cm tall and2.6cm wide, fully CLOSED, opaque lacquered burgundy body with one elegant satin-silver vertical spine inset running along the front side. Softly rounded base and fitted seamless burgundy cap; a subtle closed join at upper third. Upright original rounded silhouette, clearly thicker than an eye-liner or lip pencil. No mascara wand or product visible and no clinical or growth claims. Use case: product-mockup. Original fictional Veyli Colour premium makeup photograph, square composition, requested native1536×1536. Photograph ONE unique CLOSED opaque cosmetic vessel, entire product visible, generous warm-white paper background, crisp plum-tinted studio shadow, subtle pink reflected light. Precise realistic silver/deep-burgundy/pearl material textures and modern expressive beauty-editorial lighting, clean catalog clarity. Closed package must show no shade-specific product, no visible fluid, no pigment swatch. Absolutely no text, lettering, logos, labels, watermark, hands, stones, linen, extra products or copied real-brand signature design.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-40dc7497-b0cf-4b7a-baae-e4b2d4e3c8b9.png",
+      "rawSha256": "1a86e2dff3a6d4a57b34ec9c6cf5d437e8c48e1c5f15f934519e9b13d649bd53",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/lash-form-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 18418,
+          "sha256": "c7396ac80bafc1f88023627083f2d489647f41108cc0e8eb72199ee3a0773e5a",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/lash-form-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 7576,
+          "sha256": "14f18c16f0d36674101e17cde88f6e81bde1991ea24fa2681fcf32f69af2ac7a",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "sheer-canvas-pack",
+      "prompt": "Primary subject: an opaque warm-white rectangular complexion-tint pump bottle about12cm tall, sculptural softly chamfered rectangular base and a fitted brushed-silver rectangular pump cover fully CLOSED. The body is solid opaque pearl warm-white with NO transparent window and NO visible shade-specific foundation fluid. Refined three-quarter upright view emphasizes the rectangular shoulders, subtle pearl material and silver cover. Original unbranded beauty packaging, not a perfume bottle. Use case: product-mockup. Original fictional Veyli Colour premium makeup photograph, square composition, requested native1536×1536. Photograph ONE unique CLOSED opaque cosmetic vessel, entire product visible, generous warm-white paper background, crisp plum-tinted studio shadow, subtle pink reflected light. Precise realistic silver/deep-burgundy/pearl material textures and modern expressive beauty-editorial lighting, clean catalog clarity. Closed package must show no shade-specific product, no visible fluid, no pigment swatch. Absolutely no text, lettering, logos, labels, watermark, hands, stones, linen, extra products or copied real-brand signature design.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-c9b93791-59a1-4a45-94bb-d9891e09938b.png",
+      "rawSha256": "4c86ec41ef581e476764926af739391431c1b785b9ec86448fe4ad0459c58aec",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/sheer-canvas-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 20848,
+          "sha256": "ec37a5befbac2ffb0efd2c14a146d57bedf8167d0cb893f15a16c75f658f6280",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/sheer-canvas-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 6776,
+          "sha256": "5a7a3dd3fde455ba922a4bc413be211d39d462253b1fa30e5d02ac0c49fabd04",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "soft-signal-pack",
+      "prompt": "Primary subject: a low ROUND cream-blush compact about7cm diameter and1.8cm deep, fully CLOSED, a gently domed pearl-white circular lid and a deep-burgundy lower rim. Original smooth round silhouette, subtle pearl sheen, three-quarter overhead view makes its roundness and low profile clear. Clearly round, not a square palette, not an oval. Use case: product-mockup. Original fictional Veyli Colour premium makeup catalog photograph, square composition, requested native1536×1536. ONE CLOSED opaque vessel, entire compact visible, warm-white paper studio, crisp plum-tinted shadow, faint pink bounce, realistic premium silver/pearl/burgundy surfaces. No makeup pan, powder, cream, liquid or shade-specific swatch visible; this neutral closed vessel represents all shades. No text, logos, labels, watermark, hands, stones, linen, extra products or recognizable real-brand signature packaging.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-c3c223fd-8242-48a7-902c-6f0232576236.png",
+      "rawSha256": "4a729e011e32da8f03e82da5cbf2111b0e75ddfafcc62bc7c2030ff89c4cd3a4",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/soft-signal-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 34646,
+          "sha256": "3502af6cba56a4fca0b901f1297bbc660207859b0ee853d2347e4c059f49a699",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/soft-signal-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 8652,
+          "sha256": "ebc4689a85b632aab0376e1e24d11396c6d2a4578cfda0301048e055e77a1e06",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "light-index-pack",
+      "prompt": "Primary subject: an OVAL sculptural pale-silver highlighter compact about8cm long by5cm wide, completely CLOSED, softly rounded low clamshell form with one shallow functional thumb notch at the front edge and a very fine burgundy seam. Quiet brushed pale-silver finish, three-quarter overhead beauty angle emphasizes the elongated oval shape. Clearly oval, not a round blush compact or square eye palette. Use case: product-mockup. Original fictional Veyli Colour premium makeup catalog photograph, square composition, requested native1536×1536. ONE CLOSED opaque vessel, entire compact visible, warm-white paper studio, crisp plum-tinted shadow, faint pink bounce, realistic premium silver/pearl/burgundy surfaces. No makeup pan, powder, cream, liquid or shade-specific swatch visible; this neutral closed vessel represents all shades. No text, logos, labels, watermark, hands, stones, linen, extra products or recognizable real-brand signature packaging.",
+      "mode": "built-in image_gen",
+      "kind": "closed-product",
+      "inspected": true,
+      "rawMaster": "exec-251b849c-6923-45be-9257-cc84358851df.png",
+      "rawSha256": "1dd27f701c92855d208b9a636383b205a2ac1041f7b4f16cb4bd17b57ab0a647",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/light-index-pack.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 38954,
+          "sha256": "243add5fafdaa2f117c0274bd09acc1d82ba897253e3b51d3192e5f748cec71e",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/light-index-pack-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 10380,
+          "sha256": "59a05dfa353c858b62e4bf9330087f0dcbc5e5f0cd430cdcd3a244d5a1632d0b",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "campaign-pigments",
+      "prompt": "Use case: photorealistic-natural. Asset: original expressive beauty-editorial pigment macro for fictional Veyli Colour, LANDSCAPE3:2 composition requested native1536×1024. Tactile close-up still life of actual cosmetic material textures on warm-white paper: one rich berry satin smear, one thick coral cream sweep, a softly crumbled plum pressed powder with irregular granules, and a small trail of warm gold shimmer dust. Four distinct color gestures in an asymmetric flowing composition, generous clean warm-white negative space between them, oblique sunlight and subtle soft shadows reveal pigment ridges and powder texture. Saturated sophisticated burgundy, rose-coral, plum and gold. Absolutely no packaging, hands, faces, letters, logos, watermark, stones, linen or UI. This is illustrative pigment artwork, not an exact on-skin result or swatch calibration.",
+      "mode": "built-in image_gen",
+      "kind": "campaign",
+      "inspected": true,
+      "rawMaster": "exec-cc1828fe-7a93-4fc3-957c-800b574e8b72.png",
+      "rawSha256": "f8f7de1dd06c200688c362109645b16df8e75a16afb8301843925c984147b01d",
+      "native": {
+        "width": 1536,
+        "height": 1024,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/campaign-pigments.webp",
+          "width": 1200,
+          "height": 800,
+          "bytes": 196736,
+          "sha256": "3e67183fd019a8f637f0ae70af02f29d28a10ba63bd1ec44a2b5a72b33d3458d",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/campaign-pigments-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 56672,
+          "sha256": "11cfdf8360bf7c79ba43e7bd981f5748629e1389b0df81352d66faa8525c37f3",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "satin-stroke-berry",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied canonical CLOSED Satin Stroke product photograph. Create its matching OPEN lipstick photograph for fictional Veyli Colour, square composition. Preserve the exact satin-silver cylindrical package diameter, restrained deep-burgundy join ring, rounded cap geometry, silver material, warm-white/pale-pink studio background, lighting and camera angle. Remove the upper fitted silver cap and stand that exact cap beside the lower barrel at the right. Reveal an elegant silver inner collar and one conventionally angled satin lipstick bullet. The lower barrel must remain the same original lower silver cylinder; do not invent a different vessel or extra branding. Match the bullet approximately to Berry hexadecimal #75243f, RGB117,36,63: a muted dark wine-berry satin, not bright magenta, not red. Include both open lipstick and removed cap completely within generous square framing. No additional smear or pigment swatch, text, logo, watermark, hand, person or extra cosmetic. This is an illustrative product colour photograph, not a prediction of colour on skin. Retain natural highlights without washing out the deep berry base hue.",
+      "mode": "built-in image_gen edit",
+      "kind": "open-shade",
+      "shade": {
+        "id": "berry",
+        "name": "Berry",
+        "hex": "#75243f"
+      },
+      "references": [
+        {
+          "role": "edit target and canonical closed-container geometry",
+          "key": "satin-stroke-pack",
+          "rawMaster": "exec-277c8d2d-1573-4cee-9ea1-9dd24cde8925.png"
+        }
+      ],
+      "inspected": true,
+      "rawMaster": "exec-e57857d9-0da4-40d7-a7a3-c596abd25114.png",
+      "rawSha256": "3623d96f204849f18c371914cae72165180c5060490d62c53ab298288ed27327",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/satin-stroke-berry.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 28022,
+          "sha256": "405cac37eb4b27d3848c29743b22ba75331fa63631ab9224642e2fc8176d2661",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/satin-stroke-berry-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 9426,
+          "sha256": "31f8af2032a30b6328cd7c40fbb6e37ed07e9a17be30f9743e1712dc2317dc9a",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "satin-stroke-rose",
+      "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET: the approved open Satin Stroke Berry lipstick photograph. Image2 is the CANONICAL CLOSED CONTAINER geometry reference. Change ONLY the exposed lipstick bullet colour in Image1 to Rose approximately hexadecimal #ad6475, RGB173,100,117: a muted dusty rose satin with natural realistic highlights, clearly lighter and softer than Berry. Preserve the exact Image1 camera angle, square crop, object positions, lipstick bullet shape, silver inner collar, satin-silver lower barrel, burgundy ring, matching removed silver cap, background, lighting and shadows. Maintain the canonical package geometry from Image2. Do not move, reshape, add branding, recolour the silver or burgundy packaging, or add swatches/objects. No text/logo/watermark. This is a fictional Veyli Colour illustrative shade photograph, not an exact on-skin prediction.",
+      "mode": "built-in image_gen edit",
+      "kind": "open-shade",
+      "shade": {
+        "id": "rose",
+        "name": "Rose",
+        "hex": "#ad6475"
+      },
+      "references": [
+        {
+          "role": "edit target, approved open geometry",
+          "key": "satin-stroke-berry",
+          "rawMaster": "exec-e57857d9-0da4-40d7-a7a3-c596abd25114.png"
+        },
+        {
+          "role": "canonical closed-container geometry",
+          "key": "satin-stroke-pack",
+          "rawMaster": "exec-277c8d2d-1573-4cee-9ea1-9dd24cde8925.png"
+        }
+      ],
+      "inspected": true,
+      "rawMaster": "exec-89263fa7-9d53-46c7-9131-c4d53db9e0f1.png",
+      "rawSha256": "dd0aba737167143eb7ac3fa28abc203f1f29c505fb4758067de9467e0eacadd7",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/satin-stroke-rose.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 27600,
+          "sha256": "7d71f5ad26cfebed05c6698dd9050bd7b641b3417c22d356e7ef49676348d3d7",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/satin-stroke-rose-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 9596,
+          "sha256": "940940f9e4bcd1a2188b2cee339c69d9e9b4123bedb2b8c9f76ba15080afc845",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    },
+    {
+      "key": "satin-stroke-brick",
+      "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET: the approved open Satin Stroke Berry lipstick photograph. Image2 is the CANONICAL CLOSED CONTAINER geometry reference. Change ONLY the exposed lipstick bullet colour in Image1 to Brick approximately hexadecimal #a44736, RGB164,71,54: a muted warm terracotta brick-red satin, visibly warmer and browner than Berry and Rose, with natural realistic highlights. Preserve the exact Image1 camera angle, square crop, object positions, lipstick bullet shape, silver inner collar, satin-silver lower barrel, burgundy ring, matching removed silver cap, background, lighting and shadows. Maintain the canonical package geometry from Image2. Do not move, reshape, add branding, recolour the silver or burgundy packaging, or add swatches/objects. No text/logo/watermark. This is a fictional Veyli Colour illustrative shade photograph, not an exact on-skin prediction.",
+      "mode": "built-in image_gen edit",
+      "kind": "open-shade",
+      "shade": {
+        "id": "brick",
+        "name": "Brick",
+        "hex": "#a44736"
+      },
+      "references": [
+        {
+          "role": "edit target, approved open geometry",
+          "key": "satin-stroke-berry",
+          "rawMaster": "exec-e57857d9-0da4-40d7-a7a3-c596abd25114.png"
+        },
+        {
+          "role": "canonical closed-container geometry",
+          "key": "satin-stroke-pack",
+          "rawMaster": "exec-277c8d2d-1573-4cee-9ea1-9dd24cde8925.png"
+        }
+      ],
+      "inspected": true,
+      "rawMaster": "exec-c36258b5-11d3-4366-9023-01c85f532e18.png",
+      "rawSha256": "e5e7c31d5ba64cc8ad7c12749f2b99641991be1f6d30dc624fe5d9c7cf702e91",
+      "native": {
+        "width": 1254,
+        "height": 1254,
+        "format": "png"
+      },
+      "variants": [
+        {
+          "file": "public/images/satin-stroke-brick.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 29756,
+          "sha256": "2a48508bb8b6f242a56f391df8f2d899f0ebbe39fd7e1affeb1b9479abf07e49",
+          "opaque": true,
+          "upscaled": false
+        },
+        {
+          "file": "public/images/satin-stroke-brick-640.webp",
+          "width": 640,
+          "height": 640,
+          "bytes": 9692,
+          "sha256": "e0649a607d69fb9dd6434ce4e19aa22852fd4b53066d1fcd31ff610b38953f2c",
+          "opaque": true,
+          "upscaled": false
+        }
+      ]
+    }
+  ]
+}

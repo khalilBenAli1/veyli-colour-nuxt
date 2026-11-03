@@ -1,0 +1,402 @@
+{
+  "brand": "Veyli Colour",
+  "proposedRepo": "veyli-colour-nuxt",
+  "fonts": ["Syne", "Figtree"],
+  "status": "Project8 starting after ErdenVaux and seven-card portfolio were publicly verified.",
+  "stack": "Nuxt / Vue Composition API / strict TypeScript / Pinia / supported static generation",
+  "artDirection": "Expressive beauty-editorial colour wall: oversized wide Syne type, warm white and deep burgundy with deliberate pink/coral/gold accents, asymmetric face/pigment/product collage and rounded colour controls. Do NOT repeat Atelier boutique triptych, ErdenVaux paired fashion portraits, Maison split hero or Sora giant centered brand photo.",
+  "products": [
+    {
+      "id": "satin-stroke",
+      "name": "Satin Stroke",
+      "category": "Lips",
+      "type": "Lip colour",
+      "finish": "Satin",
+      "priceCents": 3200,
+      "image": "satin-stroke-pack.webp",
+      "packaging": "Short sculptural silver lipstick tube with a restrained burgundy ring; unbranded closed packaging.",
+      "shades": [
+        {
+          "id": "berry",
+          "name": "Berry",
+          "family": "Berry",
+          "hex": "#75243f",
+          "stock": 4,
+          "looks": ["rose", "plum"],
+          "image": "satin-stroke-berry.webp"
+        },
+        {
+          "id": "rose",
+          "name": "Rose",
+          "family": "Rose",
+          "hex": "#ad6475",
+          "stock": 6,
+          "looks": ["rose", "neutral"],
+          "image": "satin-stroke-rose.webp"
+        },
+        {
+          "id": "brick",
+          "name": "Brick",
+          "family": "Red",
+          "hex": "#a44736",
+          "stock": 0,
+          "looks": ["warm"],
+          "image": "satin-stroke-brick.webp"
+        }
+      ]
+    },
+    {
+      "id": "mirror-glaze",
+      "name": "Mirror Glaze",
+      "category": "Lips",
+      "type": "Lip gloss",
+      "finish": "Gloss",
+      "priceCents": 2900,
+      "image": "mirror-glaze-pack.webp",
+      "packaging": "Rounded opaque pearl lip-gloss vessel with a chrome wand cap; no visible shade-specific liquid.",
+      "shades": [
+        {
+          "id": "roseglass",
+          "name": "Roseglass",
+          "family": "Rose",
+          "hex": "#bd7b8a",
+          "stock": 6,
+          "looks": ["rose", "neutral"]
+        },
+        {
+          "id": "clear",
+          "name": "Clear",
+          "family": "Neutral",
+          "hex": "#e1c5bf",
+          "stock": 8,
+          "looks": ["warm", "rose", "plum", "neutral"]
+        },
+        {
+          "id": "honey",
+          "name": "Honey",
+          "family": "Brown",
+          "hex": "#ae7655",
+          "stock": 4,
+          "looks": ["warm"]
+        }
+      ]
+    },
+    {
+      "id": "line-theory",
+      "name": "Line Theory",
+      "category": "Lips",
+      "type": "Lip pencil",
+      "finish": "Matte",
+      "priceCents": 2200,
+      "image": "line-theory-pack.webp",
+      "packaging": "Slender capped silver lip pencil with a burgundy band; neutral closed presentation.",
+      "shades": [
+        {
+          "id": "spice",
+          "name": "Spice",
+          "family": "Brown",
+          "hex": "#985b4c",
+          "stock": 5,
+          "looks": ["warm"]
+        },
+        {
+          "id": "cocoa",
+          "name": "Cocoa",
+          "family": "Brown",
+          "hex": "#613f38",
+          "stock": 3,
+          "looks": ["plum", "neutral"]
+        },
+        {
+          "id": "mauve",
+          "name": "Mauve",
+          "family": "Rose",
+          "hex": "#986170",
+          "stock": 4,
+          "looks": ["rose"]
+        }
+      ]
+    },
+    {
+      "id": "velvet-stain",
+      "name": "Velvet Stain",
+      "category": "Lips",
+      "type": "Lip tint",
+      "finish": "Matte",
+      "priceCents": 2800,
+      "image": "velvet-stain-pack.webp",
+      "packaging": "Slim burgundy rectangular lip-tint case with a brushed silver cap; opaque shade-neutral vessel.",
+      "shades": [
+        {
+          "id": "raisin",
+          "name": "Raisin",
+          "family": "Berry",
+          "hex": "#6c3e50",
+          "stock": 4,
+          "looks": ["plum"]
+        },
+        {
+          "id": "coral",
+          "name": "Coral",
+          "family": "Coral",
+          "hex": "#cb725e",
+          "stock": 5,
+          "looks": ["warm", "rose"]
+        }
+      ]
+    },
+    {
+      "id": "fourfold-eyes",
+      "name": "Fourfold Eyes",
+      "category": "Eyes",
+      "type": "Eye palette",
+      "finish": "Mixed",
+      "priceCents": 6200,
+      "image": "fourfold-eyes-pack.webp",
+      "packaging": "Architectural flat square silver eye compact, closed, with four subtly embossed circles on lid; not a copy of a real brand.",
+      "shades": [
+        {
+          "id": "copper-story",
+          "name": "Copper Story",
+          "family": "Gold",
+          "hex": "#b27a52",
+          "stock": 4,
+          "looks": ["warm"]
+        },
+        {
+          "id": "plum-story",
+          "name": "Plum Story",
+          "family": "Plum",
+          "hex": "#72475f",
+          "stock": 2,
+          "looks": ["plum", "rose"]
+        },
+        {
+          "id": "neutral-canvas",
+          "name": "Neutral Canvas",
+          "family": "Neutral",
+          "hex": "#a08d7f",
+          "stock": 3,
+          "looks": ["neutral", "rose"]
+        }
+      ]
+    },
+    {
+      "id": "fine-gesture",
+      "name": "Fine Gesture",
+      "category": "Eyes",
+      "type": "Eye liner",
+      "finish": "Matte",
+      "priceCents": 2600,
+      "image": "fine-gesture-pack.webp",
+      "packaging": "Fine tapered burgundy eye-liner pen with a small silver cap, closed.",
+      "shades": [
+        {
+          "id": "ink",
+          "name": "Ink",
+          "family": "Black",
+          "hex": "#242024",
+          "stock": 8,
+          "looks": ["warm", "rose", "plum", "neutral"]
+        },
+        {
+          "id": "espresso",
+          "name": "Espresso",
+          "family": "Brown",
+          "hex": "#503a31",
+          "stock": 5,
+          "looks": ["warm", "neutral"]
+        }
+      ]
+    },
+    {
+      "id": "lash-form",
+      "name": "Lash Form",
+      "category": "Eyes",
+      "type": "Mascara",
+      "finish": "Satin",
+      "priceCents": 3400,
+      "image": "lash-form-pack.webp",
+      "packaging": "Thicker sculptural dark-burgundy mascara cylinder with a silver spine, closed; no growth or clinical claims.",
+      "shades": [
+        {
+          "id": "black",
+          "name": "Black",
+          "family": "Black",
+          "hex": "#19181b",
+          "stock": 7,
+          "looks": ["warm", "rose", "plum", "neutral"]
+        },
+        {
+          "id": "brown",
+          "name": "Brown",
+          "family": "Brown",
+          "hex": "#5c4032",
+          "stock": 4,
+          "looks": ["warm", "neutral"]
+        }
+      ]
+    },
+    {
+      "id": "sheer-canvas",
+      "name": "Sheer Canvas",
+      "category": "Complexion",
+      "type": "Complexion tint",
+      "finish": "Natural",
+      "priceCents": 4400,
+      "image": "sheer-canvas-pack.webp",
+      "packaging": "Opaque warm-white rectangular complexion-tint pump bottle with a silver pump cover; no visible shade-specific fluid.",
+      "shades": [
+        {
+          "id": "porcelain-01",
+          "name": "Porcelain 01",
+          "family": "Light",
+          "hex": "#ead0ba",
+          "stock": 6,
+          "looks": []
+        },
+        {
+          "id": "light-02",
+          "name": "Light 02",
+          "family": "Light",
+          "hex": "#dfb795",
+          "stock": 8,
+          "looks": []
+        },
+        {
+          "id": "beige-04",
+          "name": "Beige 04",
+          "family": "Medium",
+          "hex": "#be8862",
+          "stock": 5,
+          "looks": []
+        },
+        {
+          "id": "olive-05",
+          "name": "Olive 05",
+          "family": "Medium",
+          "hex": "#a58157",
+          "stock": 0,
+          "looks": []
+        },
+        {
+          "id": "deep-07",
+          "name": "Deep 07",
+          "family": "Deep",
+          "hex": "#805136",
+          "stock": 6,
+          "looks": []
+        },
+        {
+          "id": "rich-09",
+          "name": "Rich 09",
+          "family": "Deep",
+          "hex": "#583624",
+          "stock": 4,
+          "looks": []
+        }
+      ]
+    },
+    {
+      "id": "soft-signal",
+      "name": "Soft Signal",
+      "category": "Complexion",
+      "type": "Cream blush",
+      "finish": "Natural",
+      "priceCents": 3600,
+      "image": "soft-signal-pack.webp",
+      "packaging": "Low round pearl-and-burgundy cream-blush compact, closed; a different silhouette from the eye palette.",
+      "shades": [
+        {
+          "id": "guava",
+          "name": "Guava",
+          "family": "Coral",
+          "hex": "#cf786f",
+          "stock": 6,
+          "looks": ["warm", "rose"]
+        },
+        {
+          "id": "plum",
+          "name": "Plum",
+          "family": "Plum",
+          "hex": "#86526a",
+          "stock": 4,
+          "looks": ["plum", "rose"]
+        },
+        {
+          "id": "rust",
+          "name": "Rust",
+          "family": "Brown",
+          "hex": "#ad6450",
+          "stock": 0,
+          "looks": ["warm"]
+        }
+      ]
+    },
+    {
+      "id": "light-index",
+      "name": "Light Index",
+      "category": "Complexion",
+      "type": "Highlighter",
+      "finish": "Luminous",
+      "priceCents": 3800,
+      "image": "light-index-pack.webp",
+      "packaging": "Oval sculptural pale-silver highlighter compact with a shallow thumb notch, closed.",
+      "shades": [
+        {
+          "id": "pearl",
+          "name": "Pearl",
+          "family": "Neutral",
+          "hex": "#e8d5bd",
+          "stock": 5,
+          "looks": ["rose", "neutral"]
+        },
+        {
+          "id": "gold",
+          "name": "Gold",
+          "family": "Gold",
+          "hex": "#cba676",
+          "stock": 6,
+          "looks": ["warm"]
+        },
+        {
+          "id": "bronze",
+          "name": "Bronze",
+          "family": "Brown",
+          "hex": "#ab7d55",
+          "stock": 4,
+          "looks": ["plum", "warm"]
+        }
+      ]
+    }
+  ],
+  "campaigns": [
+    {
+      "file": "campaign-deep-skin.webp",
+      "request": "Original inclusive beauty-editorial close portrait of a fictional adult Black model, berry lip and copper/plum eye detail, warm-white studio, professional beauty styling, fully appropriate editorial crop, no real celebrity/brand logo/text. Image is illustrative, not a virtual try-on or prediction."
+    },
+    {
+      "file": "campaign-freckled-skin.webp",
+      "request": "Original beauty-editorial portrait of a fictional adult androgynous model with light freckled skin, graphic plum eye and natural rose lip, a deliberate burgundy/white composition, no real celebrity/brand logo/text. Illustrative editorial only."
+    },
+    {
+      "file": "campaign-pigments.webp",
+      "request": "Tactile macro still life of berry/coral/plum/gold cosmetic pigment smears and powder on warm-white paper, expressive original composition, no text or logo."
+    }
+  ],
+  "mediaContract": [
+    "10 unique closed neutral packaging photos, 3 canonical open Satin Stroke shade photos, 3 campaign images =16 assets, full+small local WebP variants.",
+    "Use the canonical closed Satin Stroke container as reference for the three open matching shade photos. Closed opaque packages are genuinely shade-neutral; do not display a visibly mismatched pigment as a selected shade.",
+    "Photos do not predict colour on skin; UI shade names and selected states remain visible, with illustrative swatch labeling.",
+    "All new assets original, no copied private/client/photos from previous brands. Separate built-in ImageGen call per asset, optimize delivery and record exact prompts/masters/final dimensions/hashes."
+  ],
+  "lookBuilder": [
+    "Build a COLOUR STORY, not a skin match: choose one compatible lips, eyes and complexion-accent variant from fixture look tags.",
+    "Tint shades have no default skin matching; the builder may use blush/highlighter accents. No camera, biometric inference or virtual try-on claim.",
+    "Sum current selected prices in integer cents. Removing a slot recomputes total. Atomic add-look validates all stock/variant rules and variant-merges with existing cart, without partial silent changes."
+  ],
+  "ownership": {
+    "app": "/root/maison_assets all code/fonts/git/CI/docs except media scope",
+    "media": "/root/roam_sveltekit public/images/**,docs/IMAGE_PROVENANCE.md,docs/image-prompts.json only"
+  }
+}

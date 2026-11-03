@@ -1,0 +1,20 @@
+[
+  {
+    "name": "home-desktop",
+    "width": 1440,
+    "height": 1000,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  },
+  {
+    "name": "home-mobile",
+    "width": 390,
+    "height": 844,
+    "sourceBaseURL": "http://127.0.0.1:4204/veyli-colour-nuxt/",
+    "errors": [],
+    "hydrationWarnings": [],
+    "overflow": false
+  }
+]
