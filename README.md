@@ -4,7 +4,7 @@ An expressive makeup storefront with **Nuxt 4, Vue Composition API, strict TypeS
 
 ![Veyli's actual colour-wall interface](docs/screenshots/home-desktop.jpg)
 
-Public demo publication is pending the final release workflow and public checks.
+[Open the live demo](https://khalilbenali1.github.io/veyli-colour-nuxt/) · [Source repository](https://github.com/khalilBenAli1/veyli-colour-nuxt)
 
 ## Colour, chosen by you
 
@@ -59,6 +59,8 @@ node scripts/capture.mjs
 ```
 
 The verified local release gate contains **38 unit/store/composable tests** and **54 browser cases without retries** across Chromium, touch-mobile Chromium and WebKit. It covers same-turn URL changes, source-stock/cents/atomicity, malformed-record recovery, cross-demo storage preservation, request-scoped stores, cold default/query hydration, supported email formats, keyboard/focus, privacy, immutable confirmation, narrow unbroken text and exact idempotent 2× scaling. Layouts use clientWidth assertions at 320/390/768/1440. Automated accessibility scans complement interaction/visual checks; no certification or Lighthouse score is claimed.
+
+The published GitHub Pages demo also passed all **18 Chromium cases without retries**, followed by a complete touch-mobile colour-story checkout. The screenshots below were captured from that public version. [Public verification evidence](docs/public-smoke.json) records the deployed commit and additional story journey; [the release workflow](https://github.com/khalilBenAli1/veyli-colour-nuxt/actions/runs/41611038877) contains the complete cross-browser gate.
 
 - [Architecture and data flow](docs/ARCHITECTURE.md)
 - [Delivery checks and limits](docs/DELIVERY.md)

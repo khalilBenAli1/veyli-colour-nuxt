@@ -1,0 +1,33 @@
+{
+  "verifiedAt": "2026-11-03T09:32:22.608Z",
+  "baseURL": "https://khalilbenali1.github.io/veyli-colour-nuxt/",
+  "deployedSourceCommit": "163947ba591549bbd27fc82c89a893032b95e443",
+  "workflow": "https://github.com/khalilBenAli1/veyli-colour-nuxt/actions/runs/41611038877",
+  "browserGate": {
+    "profile": "chromium",
+    "cases": 18,
+    "passed": 18,
+    "retries": 0
+  },
+  "additionalJourney": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "touch": true,
+    "story": "Rose Play",
+    "removedSlot": "Eyes",
+    "lines": ["Satin Stroke / Rose × 1", "Soft Signal / Guava × 1"],
+    "subtotalCents": 6800,
+    "deliveryCents": 500,
+    "totalCents": 7300,
+    "confirmationUnchangedAfterReset": true,
+    "contactDataAbsentFromStorageAndRequests": true,
+    "ownStorageKeyCleared": true,
+    "otherDemoSentinelPreserved": true,
+    "nonGetRequests": [],
+    "errors": [],
+    "hydrationWarnings": [],
+    "horizontalOverflow": false
+  }
+}

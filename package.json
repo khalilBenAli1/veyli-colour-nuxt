@@ -14,7 +14,19 @@
     "test": "vitest run",
     "test:e2e": "playwright test"
   },
-  "keywords": [],
+  "homepage": "https://khalilbenali1.github.io/veyli-colour-nuxt/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilBenAli1/veyli-colour-nuxt.git"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "typescript",
+    "pinia",
+    "beauty",
+    "portfolio"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
